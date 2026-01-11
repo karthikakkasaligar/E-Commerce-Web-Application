@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-12-31T08:50:13 IST" name="Default suite" finished-at="2025-12-31T08:50:20 IST" duration-ms="7118">
+    <groups>
+    </groups>
+    <test started-at="2025-12-31T08:50:13 IST" name="Default test" finished-at="2025-12-31T08:50:20 IST" duration-ms="7118">
+      <class name="karthikakkasaligar.Test.ErrorValidationTest">
+        <test-method is-config="true" signature="LunchApplication()[pri:0, instance:karthikakkasaligar.Test.ErrorValidationTest@4c402120]" started-at="2025-12-31T08:50:13 IST" name="LunchApplication" finished-at="2025-12-31T08:50:16 IST" duration-ms="3243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LunchApplication -->
+        <test-method signature="CartValidationTest()[pri:0, instance:karthikakkasaligar.Test.ErrorValidationTest@4c402120]" started-at="2025-12-31T08:50:16 IST" name="CartValidationTest" finished-at="2025-12-31T08:50:20 IST" duration-ms="3685" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CartValidationTest -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:karthikakkasaligar.Test.ErrorValidationTest@4c402120]" started-at="2025-12-31T08:50:20 IST" name="closebrowser" finished-at="2025-12-31T08:50:20 IST" duration-ms="153" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- karthikakkasaligar.Test.ErrorValidationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
