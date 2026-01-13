@@ -18,6 +18,7 @@ public class CartPage extends ReUseablePage {
 		super(driver);
 		this.driver=driver;
 		PageFactory.initElements(driver, this);
+		
 	}
   
 	
